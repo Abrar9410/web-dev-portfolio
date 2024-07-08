@@ -43,15 +43,15 @@
     color: #FD6E0A;
 }
 
-dark-1 {
+.dark-1 {
     color: #181818;
 }
 
-dark-2{
+.dark-2{
     color: #474747;
 }
 
-dark-3{
+.dark-3{
     color: #757575;
 }
 
@@ -104,17 +104,41 @@ dark-3{
 /* About Section begins */
 
 section {
-    margin: 130px 230px 0;
+    margin: 150px 230px 70px;
     
 }
 
 .about {
-    padding: 130px 155px;
+    padding: 120px 145px;
     background-color: #FFF8F3;
+}
+
+#inside-about {
+    background-color: white;
 }
 
 .about-heading {
     text-align: center;
     font-size: 35px;
     font-weight: bold;
+}
+
+.description {
+    text-align: center;
+    font-size: 18px;
+    margin: 30px 2px;
+}
+
+.info-title {
+    font-size: 20px;
+}
+
+.info-description {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about-infos {
+    display: flex;
+    justify-content: space-around;
 }
