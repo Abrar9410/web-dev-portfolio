@@ -143,6 +143,9 @@ section {
     display: flex;
     justify-content: space-around;
 }
+/* About Section Ends */
+
+/* Skills Section Begins */
 
 .what-i-do {
     margin: 70px 230px;
@@ -174,3 +177,49 @@ section {
     padding: 30px;
     box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.4);
 }
+/* Skills Section Ends */
+
+/* Education & Experience Section Begins */
+
+.edu-ex-card{
+    width: 515px;
+    height: 180px;
+}
+
+.edu-ex-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.edu-ex-container{
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.edu-ex{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 30px 0 10px 0;
+}
+
+.institution{
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.edu-ex-description{
+    font-size: 18px;
+}
+
+hr{
+    margin: 30px 0 30px 0;
+}
+
+#edu-ex-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
