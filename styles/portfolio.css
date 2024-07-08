@@ -100,3 +100,21 @@ dark-3{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+/* About Section begins */
+
+section {
+    margin: 130px 230px 0;
+    
+}
+
+.about {
+    padding: 130px 155px;
+    background-color: #FFF8F3;
+}
+
+.about-heading {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
