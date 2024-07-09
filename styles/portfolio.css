@@ -223,3 +223,48 @@ hr{
     margin-top: 50px;
 }
 
+/* footer begins */
+
+footer{
+    padding: 130px 230px;
+    background-color: #FFF8F3;
+    display: flex;
+    gap: 25px;
+}
+
+.contact{
+    width: 50%;
+}
+
+.contact-header{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.social-links{
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+
+form input{
+    display: block;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    height: 65px;
+    width: 465px;
+    border: none;
+    padding: 10px;
+}
+
+form textarea{
+    display: block;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    border: none;
+    padding: 10px;
+}
+
